@@ -1,0 +1,21 @@
+id: sample identifier for respective fluorophore (in animal - day post mating - replicate format)
+sp_id: sperm id assigned to male and female of same mating pair
+fluor: fluorophore
+id_anon: anonymised id for blinded FLIM data analysis
+M: male
+F: female
+coh: cohort
+mat: mating state (here um: unmated, ma: mated)
+dpm: days post mating
+magn: magnification in imaging
+tm: mean fluorescence lifetime
+t1: lifetime of fastest component
+t2: lifetime of slow component for NAD(P)H and second fastest component for FAD
+t3: lifetime of slowest component for FAD
+a1: percentage of t1
+a2: percentage of t2
+a3: percentage of t3
+ROI: region of interest
+px_ROI: number of pixels per ROI
+ph_ROI: number of total photons per ROI
+lim_phot_number: limitation of number of photons
